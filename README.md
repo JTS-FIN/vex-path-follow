@@ -4,6 +4,6 @@ Made a "self driving car" with Vex IQ robotics. In this implementation, the code
 
 See also different implementation for the same goal from here: [https://github.com/JTS-FIN/vex-path-follow-2](https://github.com/JTS-FIN/vex-path-follow-2)
 
-[![Youtube video of the latest code version in action](https://img.youtube.com/vi/BJXDyVLNBW8/0.jpg)](https://www.youtube.com/watch?v=BJXDyVLNBW8)
+[![Youtube video of the latest code version in action](https://img.youtube.com/vi/I33sMY4Hk38/0.jpg)](https://www.youtube.com/watch?v=I33sMY4Hk38)
 
-[Youtube video of the latest code version in action](https://www.youtube.com/watch?v=BJXDyVLNBW8)
+[Youtube video of the latest code version in action](https://www.youtube.com/watch?v=I33sMY4Hk38)
